@@ -15,8 +15,7 @@
 	<h2 align="center">Socials</h2>
 </p>
 
-<a href=https://www.linkedin.com/in/reubenbf/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/linkedin.png" width=25px></a>|<a 
--:|:-:|:-
+<a href=https://www.linkedin.com/in/reubenbf/><img src="https://raw.githubusercontent.com/reubenbf/reubenbf/master/images/linkedin.png" width=25px></a>
 
 
 <p align="center">
