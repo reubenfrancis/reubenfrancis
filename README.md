@@ -8,7 +8,6 @@
 		<br>Data Science graduate student from <a href="https://www.mq.edu.au/">Macquarie University</a>
 		<br>📊 Big on Data Analysis 📊
 		<br><br>
-		<img src="https://github-readme-stats.vercel.app/api?username=reubenfrancis&show_icons=true&hide_border=true&theme=dark&count_private=true" width="400px">
 		<br>
   </samp>
 </p>
