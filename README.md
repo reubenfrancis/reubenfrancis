@@ -5,7 +5,7 @@
 <p align="center">
 	<img src="https://i.imgur.com/SrExpSG.gif" width="240px">
 	<samp>
-		<br>📊 Big on Data Analysis 📊
+		<br>📊 Big on Data Modelling 📊
 		<br><br>
 		<br>
   </samp>
